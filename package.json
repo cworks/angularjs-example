@@ -1,0 +1,22 @@
+{
+  "name": "angularjs-example",
+  "version": "1.0.0",
+  "description": "Using as a basis for some lunch-n-learns at work.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cworks/angularjs-example.git"
+  },
+  "author": "corbett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cworks/angularjs-example/issues"
+  },
+  "homepage": "https://github.com/cworks/angularjs-example#readme",
+  "devDependencies": {
+    "grunt-browser-sync": "^2.2.0"
+  }
+}
